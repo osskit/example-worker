@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  service:
+    build: ../..
+    ports:
+      - '3000:3000'
+    env_file:
+      - closed-box.env
+
+  mocks:
+    image: wiremock/wiremock
+    ports:
+      - 8080:8080
+    command: '--verbose'
+
+
