@@ -48,7 +48,7 @@
   "devDependencies": {
     "@osskit/eslint-config": "^1.0.5",
     "@osskit/prettier-config": "^0.0.1",
-    "@osskit/tsconfig": "^0.0.3",
+    "@osskit/tsconfig": "^0.0.4",
     "@osskit/wiremock-client": "^1.0.1",
     "@types/http-errors": "^1.8.2",
     "@types/jest": "^28.1.4",

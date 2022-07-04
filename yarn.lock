@@ -712,10 +712,10 @@
   resolved "https://registry.yarnpkg.com/@osskit/prettier-config/-/prettier-config-0.0.1.tgz#f3e7751e694c53b9f376dd78e01fd4d94536261b"
   integrity sha512-kmu9L9TDczSG4TvVDMveZ/6oi2GtzZa2Oyw8zoup9F/SHNXiszjAhuTcZeCggA1XaoFanr9Wa4xopa/PGoV89g==
 
-"@osskit/tsconfig@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@osskit/tsconfig/-/tsconfig-0.0.3.tgz#a59e96fac4e549be378528fd18af41de8bea8450"
-  integrity sha512-HS0pFEChvxokxw11GCFjFJ3PI/yOy2mLXYJvNqLd+MkoTniCImAYncOlA9F+eow8uLX4yAXqduA0uDkBNKhkbg==
+"@osskit/tsconfig@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@osskit/tsconfig/-/tsconfig-0.0.4.tgz#d413cef1119622946b1fca524bf4daca20c3dd35"
+  integrity sha512-egINObAvaJ2XAjo2jqYNd+a1Eup/6hHpU55u4s1LdC2atT5YaiBNAAdyAW9B9ZyqTJUmLG7KFqN4mN1/BJv/kA==
   dependencies:
     "@sindresorhus/tsconfig" "^3.0.1"
 
