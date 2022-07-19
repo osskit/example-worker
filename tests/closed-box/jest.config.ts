@@ -7,6 +7,7 @@ const config: InitialOptionsTsJest = {
   globals: {
     // eslint-disable-next-line @typescript-eslint/naming-convention
     'ts-jest': {
+      useIsolatedModules: true,
       useESM: true,
       diagnostics: {
         exclude: ['!**/*.spec.ts'],
